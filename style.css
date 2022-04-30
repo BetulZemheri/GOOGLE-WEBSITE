@@ -1,0 +1,111 @@
+.header {
+    margin: 0px 5px 0px 20px;
+    display: flex;
+    float: right; 
+}
+a {
+    margin-left: 20px;
+    margin-right: 5px;
+}
+.sign-in {
+    margin-left: 20px;
+    background-color: #4285f4;;
+    color: white;
+    border: none;
+    font-weight: bold;
+    height: 30px;
+    width: 70px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+a:link,:visited{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+    text-decoration: underline;
+}
+.logo{
+    height: 95px;
+    width: 272px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    cursor: pointer;
+}
+.search {
+    width:600px;
+    height:50px;
+    display: flex;
+    align-items: center;
+    border:1px solid gray;
+    border-radius:25px;
+    margin-top: 15px;
+    margin-bottom:30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.mic img{
+    width: 15px;
+    margin-left: 40px;
+}
+.arama img {
+    width: 27px;
+    margin-left: 5px;
+}
+.input-search {
+    width: 430px;
+    height: 25px;
+    margin-left: 15px;
+    border: none;
+    outline: none;
+    font-size: 18px;
+}
+
+#button1 {
+    color: rgb(239, 239, 239);
+    height: 36px;
+    width: 140px;
+    border: hidden;
+    border-radius: 4px;
+    color: grey;
+    cursor: pointer;
+}
+
+#button2 {
+    color: rgb(239, 239, 239);
+    height: 36px;
+    width: 140px;
+    border: hidden;
+    border-radius: 4px;
+    color: grey;
+    cursor: pointer;
+}
+.button {
+    text-align: center;
+}
+.language{
+    text-align: center;
+    margin-top: 10px;
+    font-size: medium;
+}
+#language{
+    margin-left: 3px;
+    color: blue;
+}
+.bottom {
+    background-color:#f2f2f2;
+   
+}
+
+.country {
+    padding: 20px 25px;
+    border-bottom: 1px solid #dadce0;
+    color: gray;
+}
+
+
+
+
